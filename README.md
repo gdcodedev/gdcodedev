@@ -54,6 +54,6 @@
  
  ----
  
- ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryclenio&show_icons=true)
+ ![Gdcodedev GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdcodedev&show_icons=true)
  
   ----
