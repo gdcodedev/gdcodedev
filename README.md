@@ -9,7 +9,7 @@
 - Arquitetura Clean.
 - Mysql
 - SQL Server
-- Microsservices
+- Microservices
 - Protocolo HTTP
 ----
 
