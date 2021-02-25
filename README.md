@@ -2,7 +2,7 @@
 <h1 align="center">Olá meu nome é Guilherme Cardoso </h1>
 <h5 align="center">Descritivo:</h5>
 
-- Atuando como Analista de Sistemas,atuando com melhorias e implementações em banco de dados e de sistemas internos.
+- Atuando como Analista de Sistemas, com melhorias e implementações em banco de dados e de sistemas internos.
 - Implementações em scripts e ambientes em nuvem.
 - Conhecimentos em Java, JavaScript, Html, Css, Bootstrap.
 - Conhecimento em banco de dados Relacional e NoSql.
