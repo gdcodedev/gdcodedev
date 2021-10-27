@@ -1,6 +1,6 @@
 ----
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/65917790/139090099-d61c3ea7-121e-41c7-891d-de865b13d71e.gif" alt="gdcodedev" /> </p>
+<p align="center"> <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" alt="gdcodedev" /> </p>
 
 
 <h1 align="center">Olá meu nome é Guilherme Cardoso </h1>
