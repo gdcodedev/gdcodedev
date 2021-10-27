@@ -1,6 +1,6 @@
 ----
 
-<p align="center"> <img src="https://wallpapercave.com/wp/wp2757832.gif" alt="gdcodedev" /> </p>
+<p align="center"> <img src="https://wallpapercave.com/wp/wp2757868.gif" alt="gdcodedev" /> </p>
 
 
 <h1 align="center">Olá meu nome é Guilherme Cardoso </h1>
