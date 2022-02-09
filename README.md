@@ -6,9 +6,9 @@
 <h1 align="center">Olá meu nome é Guilherme Cardoso </h1>
 <h5 align="center">Descritivo:</h5>
 
-- Atuando como Desenvolvedor Front-End, com melhorias e implementações em banco de dados e de sistemas internos.
+- Atuando como Desenvolvedor FullStack, com melhorias e implementações em banco de dados e de sistemas internos.
 - Implementações em scripts e ambientes em nuvem.
-- Conhecimentos em JavaScript, VueJS, Html, Css, Bootstrap.
+- Conhecimentos em JavaScript, Java, VueJS, Html, Css, Bootstrap, Sass.
 - Conhecimento em banco de dados Relacional e NoSql.
 - Arquitetura Clean.
 - Mysql
