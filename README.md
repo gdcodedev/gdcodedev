@@ -60,8 +60,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> </a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"></a>
  
- ----
+----
  
- ![Gdcodedev GitHub Stats](https://github-readme-stats.vercel.app/api?username=gdcodedev&show_icons=true)
- 
-  ----
+ <div align="center">
+  <a href="https://github.com/gdcodedev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gdcodedev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdcodedev&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
