@@ -8,7 +8,7 @@
 
 - Atuando como Desenvolvedor FullStack, com melhorias e implementações em banco de dados e de sistemas internos.
 - Implementações em scripts e ambientes em nuvem.
-- Conhecimentos em JavaScript, Java, VueJS, Html, Css, Bootstrap, Sass.
+- Conhecimentos em JavaScript, Java, Dart, Flutter, Html, Css, Bootstrap, Sass.
 - Conhecimento em banco de dados Relacional e NoSql.
 - Arquitetura Clean.
 - Mysql
