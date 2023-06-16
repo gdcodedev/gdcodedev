@@ -1,6 +1,6 @@
 ----
 
-<p align="center"> <img src="https://i.imgur.com/oAmEXeo.gif" alt="gdcodedev" /> </p>
+<p align="center"> <img src="https://i.imgur.com/eWSMHtK.gif" alt="gdcodedev" /> </p>
 
 
 <h1 align="center">Olá meu nome é Guilherme Cardoso </h1>
