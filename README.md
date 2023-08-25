@@ -30,7 +30,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gdcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="gdcodedev" /> </p>
 
-- 🔭 Atualmente trabalho no [Yggdrasil](https://yggdrasil.green/)
+- 🔭 Atualmente trabalho no [Yggdrasil](https://yggdrasil-green.vercel.app/)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a target="_blank" href="https://www.linkedin.com/in/guilherme-cardoso-53123563/">
