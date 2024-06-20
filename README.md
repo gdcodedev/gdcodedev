@@ -20,10 +20,10 @@
 
 <h5 align="center">Aplicativo publicado PlayStore:</h5>
 
-- [ZonePlay](https://play.google.com/store/apps/details?id=com.projectcode.zoneplay)
+- [Site Pessoal](https://play.google.com/store/apps/details?id=com.projectcode.zoneplay)
 - Desenvolvido na linguagem JAVA para dispositivos Android.
-- [Site](https://gdsistemas.com.br/index.html)
-- [Youtube](https://www.youtube.com/@GCODEDEV/)
+- [GD Sistemas](https://gdsistemas.com.br/index.html)
+- [Youtube](https://www.youtube.com/@LabDoProgramador)
 
 ----
 
