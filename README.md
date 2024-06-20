@@ -20,7 +20,7 @@
 
 <h5 align="center">Aplicativo publicado PlayStore:</h5>
 
-- [Site Pessoal](https://play.google.com/store/apps/details?id=com.projectcode.zoneplay)
+- [Site Pessoal](https://developer-cardoso.vercel.app/)
 - Desenvolvido na linguagem JAVA para dispositivos Android.
 - [GD Sistemas](https://gdsistemas.com.br/index.html)
 - [Youtube](https://www.youtube.com/@LabDoProgramador)
