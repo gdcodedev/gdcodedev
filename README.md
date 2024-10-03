@@ -1,67 +1,40 @@
-----
+![👋 Hi, my name is Guilherme Cardoso](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<p align="center"> <img src="https://i.imgur.com/eWSMHtK.gif" alt="gdcodedev" /> </p>
+![Profile views](https://komarev.com/ghpvc/?username=gdcodedev&label=Profile%20views&color=0e75b6&style=flat)
+
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Guilherme Cardoso
+      </h1>
+    </summary>
+  </ul>
+</div>
+
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://twitter.com/Sushil__SM" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?logo=X&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/guilherme-cardoso-53123563/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/gdcodedev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+
+ **<h3 align="left">Sou um desenvolvedor backend com experiência em tecnologias robustas e modernas. Especializado em Java e C#, utilizo essas linguagens para desenvolver soluções backend eficientes e escaláveis. Meu conhecimento se estende a frameworks como Spring Boot, onde aplico boas práticas de desenvolvimento para garantir desempenho e segurança.</h3>**
+
+**<h3 align="left">Rapid Fire</h3>**
+
+- 💼 I'm currently working on: **💻 I work on improvements to the software of the company I work for.**
+- 🌱 I'm currently learning: **📚 AWS Certified AI Practitioner**
+- 💬 Ask me about: **💡Java ,JavaScript, VueJS, Angular, AngularJS, SpringBoot, MongoDB, PostgreSQL, MySQL**
+- ⚡ Fun fact: **🎢 Fun fact about me, I've solved many code problems while taking a shower.**
+- 📂 Portfolio: **<a href="https://gdsistemas.com.br/index.html" target="_blank">https://gdsistemas.com.br/index.html</a>**
+- 📝 Blog: **<a href="https://developer-cardoso.vercel.app/" target="_blank">https://developer-cardoso.vercel.app/</a>**
 
 
-<h1 align="center">Olá meu nome é Guilherme Cardoso </h1>
-<h5 align="center">Descritivo:</h5>
+ **<h3 align="left">Skills</h3>**
 
-- Atuando como Desenvolvedor FullStack, com melhorias e implementações em banco de dados e de sistemas internos.
-- Implementações em scripts e ambientes em nuvem.
-- Conhecimentos em JavaScript, Java, Dart, Flutter, Html, Css, Bootstrap, Sass.
-- Conhecimento em banco de dados Relacional e NoSql.
-- Arquitetura Clean.
-- Mysql
-- SQL Server
-- Microservices
-- Protocolo HTTP
-- Rest API
-----
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" height="32" alt="Java" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white" height="32" alt="Spring" style="margin-right: 4px"> <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" height="32" alt="Angular" style="margin-right: 4px"> <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white" height="32" alt="jQuery" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white" height="32" alt="Google Cloud" style="margin-right: 4px"></div>
 
-<h5 align="center">Aplicativo publicado PlayStore:</h5>
+ **<h3 align="left">GitHub Stats</h3>**
 
-- [Site Pessoal](https://developer-cardoso.vercel.app/)
-- [GD Sistemas](https://gdsistemas.com.br/index.html)
-- [Youtube](https://www.youtube.com/@LabDoProgramador)
-
-----
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gdcodedev&label=Profile%20views&color=0e75b6&style=flat" alt="gdcodedev" /> </p>
-
-- 🔭 Atualmente trabalho no [Yggdrasil](https://yggdrasil-green.vercel.app/)
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="_blank" href="https://www.linkedin.com/in/guilherme-cardoso-53123563/">
-  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a target="_blank" href="https://api.whatsapp.com/send?phone=5511950872640">
-  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
-</a>
-<a target="_blank" href="mailto:developerccardoso@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a target="_blank" href="https://fb.com/guilherme.costa.79677">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-</br>
-      
-----
-
-**Languages and Tools:**  
-
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-</a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<img src="https://i.imgur.com/JkmUWBb.png" alt="javat" width="40" height="40"/> </a> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"></a>
-<img src="https://i.imgur.com/bgs7lrU.png" alt="vuejs" width="40" height="40"/> </a>
-<a href="https://i.imgur.com/bgs7lrU.png" target="_blank"></a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> </a>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"></a>
- 
-----
- 
-
-
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gdcodedev&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gdcodedev&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
