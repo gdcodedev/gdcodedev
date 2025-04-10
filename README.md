@@ -23,7 +23,7 @@
 - 🌱 I'm currently learning: **📚 AWS Certified AI Practitioner**
 - 💬 Ask me about: **💡Java ,JavaScript, VueJS, Angular, AngularJS, SpringBoot, MongoDB, PostgreSQL, MySQL**
 - ⚡ Fun fact: **🎢 Fun fact about me, I've solved many code problems while taking a shower.**
-- 📂 Portfolio: **<a href="https://gdsistemas.com.br/index.html" target="_blank">https://gdsistemas.com.br/index.html</a>**
+- 📂 Leafy Book Reader: **<a href="[https://github.com/gdcodedev/Leafy-Book-Reader-Windows]" target="_blank">Leafy Book Reader - Windows</a>**
 - 📝 Blog: **<a href="https://developer-cardoso.vercel.app/" target="_blank">https://developer-cardoso.vercel.app/</a>**
 
 
