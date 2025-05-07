@@ -24,7 +24,6 @@
 - 💬 Ask me about: **💡Java ,JavaScript, VueJS, Angular, AngularJS, SpringBoot, MongoDB, PostgreSQL, MySQL**
 - ⚡ Fun fact: **🎢 Fun fact about me, I've solved many code problems while taking a shower.**
 - 📂 Leafy Book Reader: **<a href="[https://github.com/gdcodedev/Leafy-Book-Reader-Windows]" target="_blank">[Leafy Book Reader - Windows](https://github.com/gdcodedev/Leafy-Book-Reader-Windows)</a>**
-- 📝 Blog: **<a href="https://developer-cardoso.vercel.app/" target="_blank">https://developer-cardoso.vercel.app/</a>**
 
 
  **<h3 align="left">Skills</h3>**
