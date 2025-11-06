@@ -1,4 +1,5 @@
-![👋 Hi, my name is Guilherme Cardoso](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+<img width="1472" height="704" alt="Guilherme Cardoso Marketing" src="https://github.com/user-attachments/assets/77a8bdb3-af51-4227-bbe1-c3243bd5b21e" />
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=gdcodedev&label=Profile%20views&color=0e75b6&style=flat)
 
