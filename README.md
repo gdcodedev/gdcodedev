@@ -1,7 +1,7 @@
-<img width="1472" height="704" alt="Guilherme Cardoso Marketing" src="https://github.com/user-attachments/assets/77a8bdb3-af51-4227-bbe1-c3243bd5b21e" />
+<img width="1472" height="704" alt="Guilherme Cardoso Marketing" src="https://github.com/user-attachments/assets/c7b9e463-85e1-4c14-8174-65be452ad165"/>
 
 
-![Profile views](https://komarev.com/ghpvc/?username=gdcodedev&label=Profile%20views&color=0e75b6&style=flat)
+![Profile views](https://komarev.com/ghpvc/?username=gdcodedev&label=Profile%20views&color=0e75b6&style=fla)
 
 <div id="toc">
   <ul align="center" style="list-style: none">
