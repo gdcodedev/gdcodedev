@@ -91,7 +91,14 @@
     <td width="50%" valign="top">
       <b>🏝️ Ilha das Sílabas</b><br/>
       <sub>Jogo de alfabetização infantil para Android.</sub><br/>
-      <a href="https://play.google.com/store/apps/details?id=com.ilhadassilabas.jogo">Google Play</a> · <sub><i>Hermi Consultoria</i></sub>
+      <a href="https://play.google.com/store/apps/details?id=com.ilhadassilabas.jogo">Google Play</a> · <a href="https://github.com/gdcodedev/Ilha-das-Silabas-Android">Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <b>⚔️ The All War</b><br/>
+      <sub>MMORPG isométrico brasileiro de fantasia sombria, em alfa aberta: cliente em Godot, servidor autoritativo próprio, API em Node.js com PostgreSQL e launcher com atualização automática.</sub><br/>
+      <a href="https://theallwar.com.br">Site</a> · <a href="https://github.com/gdcodedev/The-All-War">Repositório</a>
     </td>
   </tr>
 </table>
